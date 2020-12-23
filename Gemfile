@@ -1,5 +1,5 @@
 # 
-# Gemfile ver 122120 Satellite Repo
+# Gemfile ver 122120 Main Repo
 # 
 # frozen_string_literal: true
 #
@@ -213,7 +213,8 @@ gem 'github-pages-health-check', '1.16.1'
 #
 gem 'github-pages', '209'
 #
-# Note. The ''github-markdown' dependency is no longer designated at the online GitHub Pages dependency chart
+# Note. The `github-markdown` dependency is no longer designated
+# at the online GitHub Pages dependency chart
 # C=> https://pages.github.com/versions/
 # gem 'github-markdown'
 #
@@ -256,7 +257,7 @@ gem 'jekyll-sitemap', '1.4.0'
 gem 'jekyll-swiss', '1.0.0'
 #
 # Uncomment for all satellite repos
-gem 'jekyll-theme-cayman', '0.1.1'
+# gem 'jekyll-theme-cayman', '0.1.1'
 #
 gem 'jekyll-titles-from-headings', '0.5.3'
 #
